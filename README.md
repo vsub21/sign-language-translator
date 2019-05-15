@@ -1,4 +1,6 @@
-# sign_language
+# sign-language-translator
+
+This is a final project submission for COMS 4995.7 - Applied Deep Learning (Spring 2019). Collaboration between myself, Vamsi Gadiraju, and James Shin.
 
 ## Overview 
 
